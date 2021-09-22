@@ -1,0 +1,4 @@
+University Assignment
+In this Assignment we implement a program learning Big five and implementing linked list
+from scratch using C++ pointers and refrences. the goal was to extract each word in a text
+file with the frequency and line number of that word.
