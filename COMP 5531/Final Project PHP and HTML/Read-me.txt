@@ -1,0 +1,4 @@
+Final Project
+The purpose of the project was for designing a database for a searching job website
+and it provided different user for admin, employer and employee.
+the employer could post new jobs, and employee could apply for new jobs.
