@@ -1,4 +1,4 @@
 University Assignment
-in this assignment we implement a interface for processing a word file with different
+in this assignment we implement an interface for processing a word file with different
 options and using different classess and containers. the goal was to extract each word in a text
 file with the frequency and line number of that word.
