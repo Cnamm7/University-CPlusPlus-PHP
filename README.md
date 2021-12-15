@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cna
-- 👀 I’m interested in programming with Java or C++ languages
-- 🌱 I’m currently learning different kinds of back-end and front-end languages
-- 💞️ I’m looking to collaborate on developing simple softwares
+- 👀 I’m passionate about programming with Java and C++ languages
+- 🌱 I always try to learn new things, now I'm practicing different kinds of back-end and front-end languages
+- 💞️ I’m looking to collaborate on developing softwares
 - 📫 How to reach me, contact me on Cna.mm7@gmail.com
 
 <!---
